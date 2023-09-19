@@ -1,3 +1,5 @@
+Sample project to reproduce https://issuetracker.google.com/issues/301064283
+
 Sample project for reproducing an issue where Android Studio is not using local Gradle distribution,
 and instead spins out a new Gradle daemon using older version of Gradle.
 
